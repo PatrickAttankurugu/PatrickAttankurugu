@@ -1,4 +1,5 @@
 ### Hi there! This is Patrick and I am a Data Scientist 👋
+[![HitCount](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu.svg)](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu)
 
 
 More About me:
