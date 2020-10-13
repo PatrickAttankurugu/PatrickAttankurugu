@@ -12,5 +12,5 @@ More About me:
 
 ###
 
-I strongly believe that machine learning and AI can change the world for good or for bad, why sit and allow the bad guys run the world?
+I strongly believe that machine learning and AI can change the world for good or for bad. Here for the good part!
 
