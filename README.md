@@ -11,8 +11,12 @@
 
 [![HitCount](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu.svg)](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu)
 
+<div align="center">
 
-More About me:
+<h1>More About me:</h1>
+
+</div>
+
 
 - 🔭 With my team of 5, I’m currently working on a malaria project, using deep learning to determine parasitemia level in microscopic blood smear images. We are one of the participating teams currently working on the ai4good hackathon organized by [SuperFluid Labs](https://superfluid.io/ai-commons/)
 - 🌱 I’m also learning about how to apply deep learning to solve similar medical problems.
