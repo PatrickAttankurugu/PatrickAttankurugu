@@ -1,3 +1,10 @@
+<div align="center">
+
+My name is Patrick. I'm a data scientist and entrepreneur. <br />  <a href="https://kollood.co" target="_blank">Kollood</a>
+
+</div>
+
+
 ### Hi there! This is Patrick and I am a Data Scientist 👋
 
 ![alt text](self.png)
