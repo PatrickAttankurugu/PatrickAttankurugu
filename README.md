@@ -1,6 +1,6 @@
 ### Hi there! This is Patrick and I am a Data Scientist 👋
 
-![alt text](pato.png)
+![alt text](self.png)
 
 
 [![HitCount](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu.svg)](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu)
