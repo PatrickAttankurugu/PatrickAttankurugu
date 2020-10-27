@@ -1,6 +1,6 @@
 <div align="center">
 
-My name is Patrick. I'm a data scientist and entrepreneur. <br />  <a href="https://kollood.co" target="_blank">Kollood</a>
+My name is Patrick. I'm a data scientist and entrepreneur.
 
 </div>
 
