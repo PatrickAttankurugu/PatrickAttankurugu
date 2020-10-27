@@ -1,11 +1,10 @@
 <div align="center">
 
-My name is Patrick. I'm a data scientist and entrepreneur.
+<h1>Hi there! This is Patrick and I am a Data Scientis</h1>
 
 </div>
 
-
-### Hi there! This is Patrick and I am a Data Scientist 👋
+ 
 
 ![alt text](self.png)
 
