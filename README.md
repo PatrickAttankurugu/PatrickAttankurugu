@@ -20,11 +20,11 @@
 <div align="center">
 
 <h4>
-- 🔭 With my team of 5, I’m currently working on a malaria project, using deep learning to determine parasitemia level in microscopic blood smear images. We are one of the participating teams currently working on the ai4good hackathon organized by [SuperFluid Labs](https://superfluid.io/ai-commons/)
-- 🌱 I’m also learning about how to apply deep learning to solve similar medical problems.
-- 🌋 Looking for challenging problems to work on for social impact and for the hell of it.
-- 👯 In the coming month( November),I’m looking to collaborate with others to build an Automated Online Assistant, a chatbot for the coming 2020 presidential election in Ghana
-- 📫 How to reach me: You can simply [Click Here](https://www.linkedin.com/in/patrickattankurugu1/) to start chatting with me on linkedIn
+<p>With my team of 5, I’m currently working on a malaria project, using deep learning to determine parasitemia level in microscopic blood smear images. We are one of the participating teams currently working on the ai4good hackathon organized by [SuperFluid Labs](https://superfluid.io/ai-commons/)</p>
+ <p> I’m also learning about how to apply deep learning to solve similar medical problems.</p>
+ <p> Looking for challenging problems to work on for social impact and for the hell of it.</p>
+<p> In the coming month( November),I’m looking to collaborate with others to build an Automated Online Assistant, a chatbot for the coming 2020 presidential election in Ghana/p
+ <p>How to reach me: You can simply [Click Here](https://www.linkedin.com/in/patrickattankurugu1/) to start chatting with me on linkedIn</p>
 
 </h4>
 
