@@ -22,7 +22,7 @@
 <h4>
 <p>With my team of 5, I’m currently working on a malaria project, using deep learning to determine</br>
  parasitemia level in microscopic blood smear images. We are one of the participating teams currently </br>
- working on the ai4good hackathon organized by [SuperFluid Labs](https://superfluid.io/ai-commons/)</p>
+ working on the ai4good hackathon organized by <a href="https://superfluid.io/ai-commons">SuperFluid Labs<a/></p>
  <p> I’m also learning about how to apply deep learning to solve similar medical problems.</p>
  <p> Looking for challenging problems to work on for social impact and for the hell of it.</p>
 <p> In the coming month( November),I’m looking to collaborate with others to build an Automated</br>
