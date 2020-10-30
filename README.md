@@ -28,7 +28,7 @@
 <p> In the coming month( November),I’m looking to collaborate with others to build an Automated</br>
 
  Online Assistant, a chatbot for the coming 2020 presidential election in Ghana/p
- <p>How to reach me: You can simply [Click Here](https://www.linkedin.com/in/patrickattankurugu1/) to start chatting with me on linkedIn</p>
+ <p>How to reach me: You can simply <a href="https://www.linkedin.com/in/patrickattankurugu1/">Click Here</a> to start chatting with me on linkedIn</p>
 
 </h4>
 
