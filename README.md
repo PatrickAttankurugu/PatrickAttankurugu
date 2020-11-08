@@ -38,7 +38,7 @@
 <div align="center">
 
 <h4>
- <P>I became an active contributor to the open source community in March 2020. Since then, I have been working either alone or with others to build solutions in the areas of education, health and business. I am currrently the maintainer for an open source project hosted on @Open-Ecommerce -a simple ecommerce platform that can be cloned, modified and used. I am also available to contribute to your project provided it is in the filed of data science and machine learning.You can chat me up <a href="https://www.linkedin.com/in/patrickattankurugu1/">here</a></P>
+ <P>I became an active contributor to the open source community in March 2020. Since then, I have been working either alone or with others to build solutions in the areas of education, health and business. I am currrently the maintainer for an open source project hosted on @Open-E-commerce -a simple ecommerce platform that can be cloned, modified and used. I am also available to contribute to your project provided it is in the filed of data science and machine learning.You can chat me up <a href="https://www.linkedin.com/in/patrickattankurugu1/">here</a></P>
 
 </h4>
 
