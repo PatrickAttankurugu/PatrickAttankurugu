@@ -6,7 +6,7 @@
 
  
 
-![alt text](self.png)
+![alt text](ml.jpg)
 
 
 [![HitCount](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu.svg)](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu)
