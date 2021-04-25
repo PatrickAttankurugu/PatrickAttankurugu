@@ -9,8 +9,6 @@
 ![alt text](ml~2.jpg)
 
 
-[![HitCount](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu.svg)](http://hits.dwyl.com/PatrickAttankurugu/PatrickAttankurugu)
-
 <div align="center">
 
 <h1>About me:</h1>
