@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there! This is Patrick and I am a Mahcine Learning Specialist</h1>
+<h1>Hi there! This is Patrick and I am a Machine Learning Specialist</h1>
 
 </div>
 
