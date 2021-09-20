@@ -18,7 +18,7 @@
 <div align="center">
 
 <h4>
- <P>Patrick Attankurugu is a level 300 Computer Science student at the University of Ghana. I am a book lover. I read wide into areas such as mathematics,programming,business,christianity and the meaning of life. I also read deep in the area of Data Science and machine learning-specifically how to build intelligent systems with data.Over the past year, I have worked either alone or with other people to build scientific calculators, geodemographic segmentation models,and deep learning models. In the past month, I worked with a team of 4 to build a systems that predicts the presence of malaria parasites in microscopic blood smear images.</P>
+ <P>Patrick Attankurugu is a level 300 Computer Science student of University of Ghana. He hopes to use technology to advocate for orphans, widows and abandoned kids. He aims for a world where orphans no longer live in orphanages but in homes as adopted sons and daughters.</P>
 
 </h4>
 
@@ -40,8 +40,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="Flask" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.osnbrmpnqfKNC47fuvTToAHaHa%26pid%3DApi&f=1" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
