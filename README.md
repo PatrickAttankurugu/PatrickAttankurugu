@@ -21,7 +21,10 @@
 <div align="center">
 
 <h4>
- <P>Patrick Attankurugu is a level 300 Computer Science student at the University of Ghana. He is an aspiring software engineer and machine learning scientist.Patrick hopes to use technology to advocate for orphans, widows and abandoned kids. He aims for a world where orphans no longer live in orphanages but in homes as adopted sons and daughters.</P>
+ <P>Patrick Attankurugu is a level 300 Computer Science student at the University of Ghana.
+  He is an aspiring software engineer and machine learning
+  scientist.Patrick hopes to use technology to advocate for orphans, widows and abandoned kids. 
+  He aims for a world where orphans no longer live in orphanages but in homes as adopted sons and daughters.</P>
 
 </h4>
 
