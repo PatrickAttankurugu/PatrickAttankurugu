@@ -6,9 +6,12 @@
 
  
 
+<div align="center">
+ 
 ![alt text](ai.jpg)
 
-
+</div>
+ 
 <div align="center">
 
 <h1>About me:</h1>
