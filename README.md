@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there! I'm Patrick</h1>
+<h1>Hello World! I'm Patrick</h1>
 
 </div>
 
@@ -22,9 +22,7 @@
 
 <h4>
  <P>Patrick Attankurugu is a level 300 Computer Science student at the University of Ghana.
-  He is an aspiring software engineer and machine learning
-  scientist.Patrick hopes to use technology to advocate for orphans, widows and abandoned kids. 
-  He aims for a world where orphans no longer live in orphanages but in homes as adopted sons and daughters.</P>
+  He is an aspiring software engineer and machine learning specialist. Patrick has a few engineering skills and is open to collaborate with other engineers out there in building software.</P>
 
 </h4>
 
