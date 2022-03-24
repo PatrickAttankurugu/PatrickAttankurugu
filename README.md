@@ -21,7 +21,7 @@
 <div align="center">
 
 <h4>
- <P>Patrick Attankurugu is a level 300 Computer Science student at the University of Ghana.<br>
+ <P>Patrick Attankurugu is a final year Computer Science student at the University of Ghana.<br>
   He is an aspiring software engineer and machine learning specialist. <br>
   Patrick has a few engineering skills and is open to collaborate <br>
   with other engineers out there in building software.</P>
