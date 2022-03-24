@@ -42,7 +42,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=1gI9VXyK&id=17DC249F8FE755736299B81A7CCD1837F9D1B2E9&thid=OIP.1gI9VXyKAud1gkWtRj75aAAAAA&mediaurl=https%3a%2f%2fnumfocus.org%2fwp-content%2fuploads%2f2017%2f10%2fNumpypng.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d6023d557c8a02e7758245ad463ef968%3frik%3d6bLR%252bTcYzXwauA%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d800%26srw%3d800&exph=300&expw=300&q=numpy&simid=608000587210296244&FORM=IRPRST&ck=06D50805FA2F7F04186C11102756D459&selectedIndex=3&ajaxhist=0&ajaxserp=0" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
