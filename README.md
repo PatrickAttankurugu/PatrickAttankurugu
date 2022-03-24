@@ -31,19 +31,6 @@
 
 </div>
 
-<div align="center">
-
-<h1>Languages, Tools, Frameworks and Libraries</h1>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
-
-
-
-<div style="margin-top:10px">
-<img align="left" alt="Jquery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-
-</div>
 
 <br />
 <br />
