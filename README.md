@@ -18,10 +18,12 @@
 <div align="center">
 
 <h4>
- <P>Patrick Attankurugu is a final year Computer Science student at the University of Ghana.<br>
-  He is an aspiring software engineer and machine learning specialist. <br>
-  Patrick has a few engineering skills and is open to collaborate <br>
-  with other engineers out there in building software.</P>
+ <P>I am a final year Computer Science student at the University of Ghana.<br>
+  I am an aspiring software engineer and machine learning specialist. <br>
+  I love to build system that can think and make intelligent decisions <br>
+  I am open to offers in software engineering as a national service personnel<br>
+  Please chat me up on [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
+  .</P>
 
 </h4>
 
