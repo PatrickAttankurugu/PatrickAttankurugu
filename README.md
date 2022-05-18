@@ -8,7 +8,7 @@
 
 <div align="center">
  
- ![alt text](ai.jpg)
+ ![alt text](code.jpg)
 
 </div>
  
