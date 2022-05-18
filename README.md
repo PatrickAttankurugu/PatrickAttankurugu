@@ -8,7 +8,8 @@
 
 <div align="center">
  
-![alt text](ai.jpg)
+<!--![alt text](ai.jpg) -->
+ <video src="codeAnimated.mp4"><video>
 
 </div>
  
