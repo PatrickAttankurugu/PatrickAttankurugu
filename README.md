@@ -36,7 +36,6 @@
 
 <br />
 <br />
-</div>
 
 [website]: http://patrickattankurugu.github.io/
 [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
@@ -46,6 +45,9 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+
+</div>
+
 
 
           
