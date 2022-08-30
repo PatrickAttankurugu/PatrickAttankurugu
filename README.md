@@ -41,7 +41,7 @@
 [website]: http://patrickattankurugu.github.io/
 [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
 
-
+<dive align="center">
 ### Languages & Frameworks.
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
@@ -58,6 +58,8 @@ href="mailto:patricka.azuma@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
 href="https://twitter.com/PatrickAttanku1"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
+
 <div/>
 
 
