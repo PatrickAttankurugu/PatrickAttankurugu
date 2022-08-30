@@ -38,14 +38,6 @@
 <br />
 </div>
 
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickAttankurugu&show_icons=true&hide_border=true&count_private=true" />
-
-<br />
-<br />
-
-
 [website]: http://patrickattankurugu.github.io/
 [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
 
