@@ -41,12 +41,11 @@
 [website]: http://patrickattankurugu.github.io/
 [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
 
-### Languages & Frameworks.
+### Languages.
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor)
 
 
           
