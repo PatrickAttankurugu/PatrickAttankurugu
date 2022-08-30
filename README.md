@@ -41,7 +41,6 @@
 [website]: http://patrickattankurugu.github.io/
 [linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
 
-<dive align="center">
 ### Languages & Frameworks.
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
