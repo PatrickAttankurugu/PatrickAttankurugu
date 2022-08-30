@@ -46,7 +46,6 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![SQL](https://icongr.am/devicon/sql-original.svg?size=50&color=currentColor)
 
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PatrickAttankurugu&count_private=true&theme=tokyonight&showicons=true)]()
