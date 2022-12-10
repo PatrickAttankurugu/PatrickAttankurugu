@@ -20,12 +20,11 @@
 <h4>
  <P>Team lead for the University of Ghana team,<br>
   participating in the 2022/2023 Tertiary Digital Innovation Program <br>
-  Under the Ghana Digital Centres Limited<br>
+  under the Ghana Digital Centres Limited<br>
   I am a software engineer and machine learning specialist. <br>
   My interest lie in building system that can think and make intelligent decisions <br>
-
   Please chat me up on <a href="https://www.linkedin.com/in/patrickattankurugu1/" >LinkedIn</a> <br>
-  and let's connect
+  let's connect
   
   </P>
 
