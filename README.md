@@ -23,8 +23,7 @@
   under the Ghana Digital Centres Limited<br>
   I am a software engineer and machine learning specialist. <br>
   My interest lie in building system that can think and make intelligent decisions <br>
-  Please chat me up on <a href="https://www.linkedin.com/in/patrickattankurugu1/" >LinkedIn</a> <br>
-  let's connect
+  Let's connect on <a href="https://www.linkedin.com/in/patrickattankurugu1/" >LinkedIn</a>
   
   </P>
 
