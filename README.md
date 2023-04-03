@@ -18,10 +18,9 @@
 <div align="center">
 
 <h4>
- <P>Team lead for the University of Ghana team,<br>
-  participating in the 2022/2023 Tertiary Digital Innovation Program <br>
-  under the Ghana Digital Centres Limited<br>
-  I am a software engineer and machine learning specialist. <br>
+ <P>
+  As a developer with a passion for using technology to make a difference in the world, I am constantly seeking out new challenges and opportunities to build innovative software solutions. My skills and experience include proficiency in a wide range of programming languages and frameworks, as well as a deep understanding of machine learning, computer vision, and other cutting-edge technologies. With a commitment to excellence and a focus on delivering high-quality results, I am dedicated to creating software that is both powerful and user-friendly, and that meets the needs of clients and end users alike. Whether working independently or as part of a team, I bring a strong work ethic, excellent communication skills, and a passion for learning and growing as a developer to every project I undertake.
+  
   My interest lie in building system that can think and make intelligent decisions. <br>
   Let's connect on <a href="https://www.linkedin.com/in/patrickattankurugu1/" >LinkedIn</a>
   
