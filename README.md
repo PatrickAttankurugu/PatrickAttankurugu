@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Picture](code.jpg)
+![Profile Picture](codes.jpg)
 
 <h1>Hi there, I'm Patrick Attankurugu! 👋</h1>
 
