@@ -45,7 +45,6 @@
 ### GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PatrickAttankurugu&count_private=true&theme=tokyonight&showicons=true)]()
 
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=PatrickAttankurugu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 
 <h3>Let's Connect 🤝</h3>
