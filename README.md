@@ -47,6 +47,7 @@
 
 ![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=PatrickAttankurugu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
+
 <h3>Let's Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/patrickattankurugu400/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
 <a href="mailto:patricka.azuma@gmail.com" target="_blank"><img src="https://img.shields.io
