@@ -19,10 +19,28 @@
 <br>
 
 ### Skills & Technologies
+#### Web Development
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=563d7c)
+![Django](https://icongr.am/devicon/django-original.svg?size=50&color=092e20)
+[![Flask](https://img.icons8.com/nolan/64/flask.png)](https://en.wikipedia.org/wiki/Flask_(web_framework))
+
+#### Machine Learning and Data Analysis
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+![TensorFlow](https://icongr.am/simple/tensorflow.svg?size=50&color=ff6f00)
+![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
+[NumPy](https://numpy.org/)
+[SciPy](https://www.scipy.org/)
+[![Pandas](https://img.icons8.com/windows/32/000000/pandas.png)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.icons8.com/nolan/64/matplotlib.png)](https://matplotlib.org/)
+
+#### Database and Cloud Services
+[SQL](https://en.wikipedia.org/wiki/SQL)
+[![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=4479a1)](https://en.wikipedia.org/wiki/MySQL)
+[![Microsoft Azure](https://icongr.am/simple/microsoftazure.svg?size=50&color=0089D6)](https://en.wikipedia.org/wiki/Microsoft_Azure)
+
 
 ### GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PatrickAttankurugu&count_private=true&theme=tokyonight&showicons=true)]()
