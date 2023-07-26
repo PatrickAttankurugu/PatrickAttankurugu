@@ -42,11 +42,6 @@
 [![Microsoft Azure](https://icongr.am/simple/microsoftazure.svg?size=50&color=0089D6)](https://en.wikipedia.org/wiki/Microsoft_Azure)
 
 
-### GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PatrickAttankurugu&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-
 <h3>Let's Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/patrickattankurugu400/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
 <a href="mailto:patricka.azuma@gmail.com" target="_blank"><img src="https://img.shields.io
