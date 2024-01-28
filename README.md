@@ -2,7 +2,7 @@
 
 # Hi there, I'm Patrick Attankurugu! 👋
 
-I'm an AI Developer and Entrepreneur from Ghana. Specializing in Python, HTML, CSS, and backend development, I'm passionate about AI innovations. Visit my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com).
+I'm an AI Developer and Entrepreneur from Ghana. Specializing in building websites and intelligent systems. Visit my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com).
 
 Let's connect and make a global impact! [LinkedIn](https://www.linkedin.com/in/patrickattankurugu1/).
 
