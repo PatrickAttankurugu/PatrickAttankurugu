@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer
 ##  About Me
 - 💡 Specializing in building intelligent systems and websites
 - 💡 Graduated with a degree in Computer Science
-- 💡 co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
+- 💡 Co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
 - 💡 Passionate about leveraging technology for global impact
 - 🌐 Check out my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com)
 
@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer
 ##  Featured Projects
 ### 1. [SEMA Technologies](https://sematechnologies.com)
 - Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
-- Technologies: Python, TensorFlow, PyTorch, Django, MySQL
 
 ### 2. [Restored Glory Foundation](https://restoredgloryfoundation.org)
 - Description: A charitable organization that is dedicated to empowering the lives of 'the least of these'- Mathew 25:40.
