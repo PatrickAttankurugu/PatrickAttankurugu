@@ -30,12 +30,9 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer
 ### 1. [SEMA Technologies](https://sematechnologies.com)
 - Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
 - Technologies: Python, TensorFlow, PyTorch, Django, MySQL
-- GitHub: [sema-technologies](https://github.com/sema-technologies)
 
-### 2. [IntelliCrop](https://intellicrop.com)
-- Description: An intelligent crop monitoring and yield prediction system using computer vision and machine learning.
-- Technologies: Python, OpenCV, scikit-learn, Flask
-- GitHub: [intellicrop](https://github.com/intellicrop)
+### 2. [Restored Glory Foundation](https://restoredgloryfoundation.org)
+- Description: A charitable organization that is dedicated to empowering the lives of 'the least of these'- Mathew 25:40.
 
 ## 🌍 Global Impact
 I am deeply committed to leveraging technology for global impact. Through my work at SEMA Technologies and various open-source projects, I aim to create solutions that address pressing challenges in areas such as security, agriculture, and sustainable development.
@@ -43,7 +40,7 @@ I am deeply committed to leveraging technology for global impact. Through my wor
 ## 🤝 Let's Connect
 I'm always excited to collaborate with like-minded individuals and organizations. If you have any questions, ideas, or opportunities, feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrickattankurugu1/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrickattankurugu400/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
 
 Let's connect and make a difference together!
