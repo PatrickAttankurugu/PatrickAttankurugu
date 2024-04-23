@@ -1,15 +1,15 @@
 ![Profile Picture](codes.jpg)
 
-# 👋 Hi, I'm Patrick Attankurugu
+#  Hi, I'm Patrick Attankurugu
 ## AI Developer | Entrepreneur | Innovator
 
 Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer and entrepreneur from Ghana. With a strong background in artificial intelligence, web development, and intelligent systems, I strive to create cutting-edge solutions that make a positive impact on the world.
 
-## 🌟 About Me
+##  About Me
 - 💡 Specializing in building intelligent systems and websites
-- 🎓 Graduated with a degree in Computer Science
-- 🚀 Founder and CEO of [SEMA Technologies](https://sematechnologies.com)
-- 🌍 Passionate about leveraging technology for global impact
+- 💡 Graduated with a degree in Computer Science
+- 💡 co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
+- 💡 Passionate about leveraging technology for global impact
 - 🌐 Check out my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com)
 
 ## 🛠️ Skills & Technologies
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer
 ![Pinecone](https://img.shields.io/badge/-Pinecone-9cf?style=flat)
 ![GPT-4](https://img.shields.io/badge/-GPT--4-brightgreen?style=flat)
 
-## 🚀 Featured Projects
+##  Featured Projects
 ### 1. [SEMA Technologies](https://sematechnologies.com)
 - Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
 - Technologies: Python, TensorFlow, PyTorch, Django, MySQL
