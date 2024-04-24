@@ -3,7 +3,7 @@
 #  Hi, I'm Patrick Attankurugu
 ## AI Developer | Entrepreneur | Innovator
 
-Welcome to my GitHub profile! I'm Patrick Attankurugu, a passionate AI developer and entrepreneur from Ghana. With a strong background in artificial intelligence, web development, and intelligent systems, I strive to create cutting-edge solutions that make a positive impact on the world.
+Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entrepreneur from Ghana. With a background in data science, artificial intelligence, web development. I strive to create intelligent systems that make the world a little better.
 
 ##  About Me
 - 💡 Specializing in building intelligent systems and websites
