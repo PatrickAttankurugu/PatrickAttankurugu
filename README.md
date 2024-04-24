@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entrepreneur from Ghana. With a background in data science, artificial intelligence, web development. I strive to create intelligent systems that make the world a little better.
 
 ##  About Me
-- 💡 Specializing in building intelligent systems and websites
+- 💡 Specialized in building intelligent systems and websites
 - 💡 Graduated with a degree in Computer Science
 - 💡 Co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
 - 💡 Passionate about leveraging technology for global impact
