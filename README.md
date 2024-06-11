@@ -1,11 +1,11 @@
 ![Profile Picture](codes.jpg)
 
-#  Hi, I'm Patrick Attankurugu
+# Hi, I'm Patrick Attankurugu
 ## AI Developer | Entrepreneur | Innovator
 
-Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entrepreneur from Ghana. With a background in data science, artificial intelligence, web development. I strive to create intelligent systems that make the world a little better.
+Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entrepreneur from Ghana. With a background in data science, artificial intelligence, and web development, I strive to create intelligent systems that make the world a little better.
 
-##  About Me
+## About Me
 - 💡 Specialized in building intelligent systems and websites
 - 💡 Graduated with a degree in Computer Science
 - 💡 Co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
@@ -25,8 +25,12 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entre
 ![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=flat)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-9cf?style=flat)
 ![GPT-4](https://img.shields.io/badge/-GPT--4-brightgreen?style=flat)
+![Autogen](https://img.shields.io/badge/-Autogen-yellow?style=flat)
+![Langraph](https://img.shields.io/badge/-Langraph-orange?style=flat)
+![Crewa.ai](https://img.shields.io/badge/-Crewa.ai-purple?style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-green?style=flat)
 
-##  Featured Projects
+## Featured Projects
 ### 1. [SEMA Technologies](https://sematechnologies.com)
 - Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
 
