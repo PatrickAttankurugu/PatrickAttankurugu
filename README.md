@@ -37,9 +37,6 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entre
 ### 2. [Restored Glory Foundation](https://restoredgloryfoundation.org)
 - Description: A charitable organization that is dedicated to empowering the lives of 'the least of these'- Mathew 25:40.
 
-## 🌍 Global Impact
-I am deeply committed to leveraging technology for global impact. Through my work at SEMA Technologies and various open-source projects, I aim to create solutions that address pressing challenges in areas such as security, agriculture, and sustainable development.
-
 ## 🤝 Let's Connect
 I'm always excited to collaborate with like-minded individuals and organizations. If you have any questions, ideas, or opportunities, feel free to reach out to me:
 
