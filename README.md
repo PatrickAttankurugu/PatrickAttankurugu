@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entre
 
 ## About Me
 - 💡 Specialized in building intelligent systems and websites
-- 💡 Graduated with a degree in Computer Science
+- 💡 Machine Learning Specialist at [Agregar](https://agregartech.com/)
 - 💡 Co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
 - 💡 Passionate about leveraging technology for global impact
 - 🌐 Check out my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com)
