@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entre
 ### 1. [SEMA Technologies](https://sematechnologies.com)
 - Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
 
-### 2. [Restored Glory Foundation](https://restoredgloryfoundation.org)
+### 2. [Ramah Upliftment Foundation](https://ramahupliftment.org)
 - Description: A charitable organization that is dedicated to empowering the lives of 'the least of these'- Mathew 25:40.
 
 ## 🤝 Let's Connect
