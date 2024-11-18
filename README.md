@@ -10,17 +10,19 @@
 
 </div>
 
+## 💫 Executive Summary
+Experienced AI Developer and entrepreneur from Ghana with a proven track record in building intelligent systems that drive meaningful impact. Currently spearheading AI initiatives at Agregar and leading SEMA Technologies, where we're revolutionizing predictive surveillance systems. Specialized in developing scalable AI solutions using Python and modern frameworks, with particular expertise in LLMs, computer vision, and predictive analytics. Committed to leveraging cutting-edge technology to solve complex challenges in Africa and beyond.
 
-##  Professional Journey
--  **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
+## 🚀 Professional Journey
+- 🤖 **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
   - Leading AI integration in agricultural technology
   - Developing predictive models for crop yield optimization
 
--  **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
+- 🎯 **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
   - Revolutionizing predictive surveillance systems
   - Building AI-powered solutions for proactive crime prevention
 
-## Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -31,14 +33,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI & ML Framework Mastery
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Expert-blueviolet?style=for-the-badge)
 ![GPT--4](https://img.shields.io/badge/GPT--4-Advanced-brightgreen?style=for-the-badge)
 
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Advanced AI Tools
@@ -50,7 +53,7 @@
 
 </div>
 
-##  Featured Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
@@ -64,7 +67,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>Ramah Upliftment Foundation</h3>
+      <h3>💝 Ramah Upliftment Foundation</h3>
       <p>Tech-driven charitable initiative empowering communities through innovative solutions and sustainable development programs.</p>
       <a href="https://ramahupliftment.org">
         <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
@@ -75,7 +78,7 @@
 
 </div>
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -91,10 +94,10 @@
 
 I'm always excited to collaborate on projects that push the boundaries of AI and technology. Whether you're interested in:
 
-- AI/ML Projects
-- Social Impact Initiatives
-- Innovative Tech Solutions
-- Mentorship Opportunities
+- 🤖 AI/ML Projects
+- 🌍 Social Impact Initiatives
+- 💡 Innovative Tech Solutions
+- 🤝 Mentorship Opportunities
 
 Let's connect and create something amazing together!
 
