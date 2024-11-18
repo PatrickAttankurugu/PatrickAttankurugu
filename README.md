@@ -1,50 +1,113 @@
-![Profile Picture](codes.jpg)
+<div align="center">
+  
+# Patrick Attankurugu
 
-# Hi, I'm Patrick Attankurugu
-## AI Developer | Entrepreneur | Innovator
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=AI+Developer+%F0%9F%A7%A0;Entrepreneur+%F0%9F%9A%80;Innovator+%F0%9F%92%A1;Building+the+Future+with+AI+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm Patrick Attankurugu, an AI developer and entrepreneur from Ghana. With a background in data science, artificial intelligence, and web development, I strive to create intelligent systems that make the world a little better.
+[<img src="https://img.shields.io/badge/Portfolio-patrickattankurugu.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>](http://patrickattankurugu.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrickattankurugu400/)
+[<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:patricka.azuma@gmail.com)
 
-## About Me
-- 💡 Specialized in building intelligent systems and websites
-- 💡 Machine Learning Specialist at [Agregar](https://agregartech.com/)
-- 💡 Co-founder and CEO of [SEMA Technologies](https://sematechnologies.com)
-- 💡 Passionate about leveraging technology for global impact
-- 🌐 Check out my portfolio at [patrickattankurugu.com](http://patrickattankurugu.com)
+</div>
 
-## 🛠️ Skills & Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=flat)
-![Pinecone](https://img.shields.io/badge/-Pinecone-9cf?style=flat)
-![GPT-4](https://img.shields.io/badge/-GPT--4-brightgreen?style=flat)
-![Autogen](https://img.shields.io/badge/-Autogen-yellow?style=flat)
-![Langraph](https://img.shields.io/badge/-Langraph-orange?style=flat)
-![Crewa.ai](https://img.shields.io/badge/-Crewa.ai-purple?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-green?style=flat)
+## 🌟 Vision Statement
+Pioneering AI solutions from Ghana to transform global challenges into opportunities for innovation and positive impact. Committed to leveraging artificial intelligence for social good and technological advancement in Africa and beyond.
 
-## Featured Projects
-### 1. [SEMA Technologies](https://sematechnologies.com)
-- Description: A startup focused on developing AI-powered predictive surveillance systems for proactive crime control.
+## 🚀 Professional Journey
+- 🤖 **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
+  - Leading AI integration in agricultural technology
+  - Developing predictive models for crop yield optimization
 
-### 2. [Ramah Upliftment Foundation](https://ramahupliftment.org)
-- Description: A charitable organization that is dedicated to empowering the lives of 'the least of these'- Mathew 25:40.
+- 🎯 **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
+  - Revolutionizing predictive surveillance systems
+  - Building AI-powered solutions for proactive crime prevention
 
-## 🤝 Let's Connect
-I'm always excited to collaborate with like-minded individuals and organizations. If you have any questions, ideas, or opportunities, feel free to reach out to me:
+## 💻 Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrickattankurugu400/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
+<div align="center">
 
-Let's connect and make a difference together!
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI & ML Framework Mastery
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Expert-blueviolet?style=for-the-badge)
+![GPT--4](https://img.shields.io/badge/GPT--4-Advanced-brightgreen?style=for-the-badge)
+
+### Backend & Databases
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Advanced AI Tools
+![Pinecone](https://img.shields.io/badge/Pinecone-Expert-9cf?style=for-the-badge)
+![Autogen](https://img.shields.io/badge/Autogen-Advanced-yellow?style=for-the-badge)
+![Langraph](https://img.shields.io/badge/Langraph-Advanced-orange?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Expert-green?style=for-the-badge)
+![Crewa.ai](https://img.shields.io/badge/Crewa.ai-Advanced-purple?style=for-the-badge)
+
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔮 SEMA Technologies</h3>
+      <p>Revolutionary AI-powered surveillance platform for proactive crime prevention using cutting-edge machine learning algorithms and real-time analysis.</p>
+      <a href="https://sematechnologies.com">
+        <img src="https://img.shields.io/badge/Learn_More-00C7B7?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>💝 Ramah Upliftment Foundation</h3>
+      <p>Tech-driven charitable initiative empowering communities through innovative solutions and sustainable development programs.</p>
+      <a href="https://ramahupliftment.org">
+        <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickattankurugu&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickattankurugu&layout=compact&theme=tokyonight)
+
+</div>
+
+## 🤝 Let's Connect and Innovate!
+
+<div align="center">
+
+I'm always excited to collaborate on projects that push the boundaries of AI and technology. Whether you're interested in:
+
+- 🤖 AI/ML Projects
+- 🌍 Social Impact Initiatives
+- 💡 Innovative Tech Solutions
+- 🤝 Mentorship Opportunities
+
+Let's connect and create something amazing together!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=patrickattankurugu&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patrickattankurugu&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+</p>
+
+</div>
