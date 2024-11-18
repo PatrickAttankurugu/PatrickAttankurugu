@@ -10,19 +10,17 @@
 
 </div>
 
-## 🌟 Vision Statement
-Pioneering AI solutions from Ghana to transform global challenges into opportunities for innovation and positive impact. Committed to leveraging artificial intelligence for social good and technological advancement in Africa and beyond.
 
-## 🚀 Professional Journey
-- 🤖 **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
+##  Professional Journey
+-  **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
   - Leading AI integration in agricultural technology
   - Developing predictive models for crop yield optimization
 
-- 🎯 **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
+-  **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
   - Revolutionizing predictive surveillance systems
   - Building AI-powered solutions for proactive crime prevention
 
-## 💻 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -52,7 +50,7 @@ Pioneering AI solutions from Ghana to transform global challenges into opportuni
 
 </div>
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -66,7 +64,7 @@ Pioneering AI solutions from Ghana to transform global challenges into opportuni
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>💝 Ramah Upliftment Foundation</h3>
+      <h3>Ramah Upliftment Foundation</h3>
       <p>Tech-driven charitable initiative empowering communities through innovative solutions and sustainable development programs.</p>
       <a href="https://ramahupliftment.org">
         <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
@@ -77,7 +75,7 @@ Pioneering AI solutions from Ghana to transform global challenges into opportuni
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -93,10 +91,10 @@ Pioneering AI solutions from Ghana to transform global challenges into opportuni
 
 I'm always excited to collaborate on projects that push the boundaries of AI and technology. Whether you're interested in:
 
-- 🤖 AI/ML Projects
-- 🌍 Social Impact Initiatives
-- 💡 Innovative Tech Solutions
-- 🤝 Mentorship Opportunities
+- AI/ML Projects
+- Social Impact Initiatives
+- Innovative Tech Solutions
+- Mentorship Opportunities
 
 Let's connect and create something amazing together!
 
