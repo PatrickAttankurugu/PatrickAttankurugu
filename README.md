@@ -10,19 +10,18 @@
 
 </div>
 
-## 💫 Executive Summary
-Experienced AI Developer and entrepreneur from Ghana with a proven track record in building intelligent systems that drive meaningful impact. Currently spearheading AI initiatives at Agregar and leading SEMA Technologies, where we're revolutionizing predictive surveillance systems. Specialized in developing scalable AI solutions using Python and modern frameworks, with particular expertise in LLMs, computer vision, and predictive analytics. Committed to leveraging cutting-edge technology to solve complex challenges in Africa and beyond.
+## Executive Summary
+Experienced AI Developer and entrepreneur from Ghana with a proven track record in building intelligent systems that drive meaningful impact. Currently a machine learning engineer at Agregar and leading SEMA Technologies, where we're revolutionizing predictive surveillance systems. Specialized in developing AI solutions using Python and modern frameworks, with particular expertise in LLMs, computer vision, and predictive analytics. Committed to leveraging cutting-edge technology to solve complex challenges in Africa and beyond.
 
-## 🚀 Professional Journey
-- 🤖 **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
-  - Leading AI integration in agricultural technology
-  - Developing predictive models for crop yield optimization
+##  Professional Journey
+-  **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
+  - Developing AI systems for background verifications
+  
 
-- 🎯 **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
-  - Revolutionizing predictive surveillance systems
+-  **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
   - Building AI-powered solutions for proactive crime prevention
 
-## 💻 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -53,7 +52,7 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
 
 </div>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -67,7 +66,7 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>💝 Ramah Upliftment Foundation</h3>
+      <h3>Ramah Upliftment Foundation</h3>
       <p>Tech-driven charitable initiative empowering communities through innovative solutions and sustainable development programs.</p>
       <a href="https://ramahupliftment.org">
         <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
@@ -78,7 +77,7 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -88,16 +87,16 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
 
 </div>
 
-## 🤝 Let's Connect and Innovate!
+## Let's Connect and Innovate!
 
 <div align="center">
 
 I'm always excited to collaborate on projects that push the boundaries of AI and technology. Whether you're interested in:
 
-- 🤖 AI/ML Projects
-- 🌍 Social Impact Initiatives
-- 💡 Innovative Tech Solutions
-- 🤝 Mentorship Opportunities
+-  AI/ML Projects
+-  Social Impact Initiatives
+-  Innovative Tech Solutions
+- Mentorship Opportunities
 
 Let's connect and create something amazing together!
 
