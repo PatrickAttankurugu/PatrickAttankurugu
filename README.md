@@ -29,9 +29,6 @@ Senior AI/ML & Backend Engineer with expertise in building sophisticated intelli
 
 ### Core Technologies
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### AI & ML Expertise
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
