@@ -2,7 +2,7 @@
   
 # Patrick Attankurugu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=AI+Developer+%F0%9F%A7%A0;Entrepreneur+%F0%9F%9A%80;Innovator+%F0%9F%92%A1;Building+the+Future+with+AI+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Senior+AI%2FML+Engineer+%F0%9F%A7%A0;Backend+Architect+%F0%9F%8C%90;Innovation+Leader+%F0%9F%92%A1;Building+Intelligent+Systems+%F0%9F%94%AE)](https://git.io/typing-svg)
 
 [<img src="https://img.shields.io/badge/Portfolio-patrickattankurugu.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>](http://patrickattankurugu.com)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrickattankurugu400/)
@@ -11,44 +11,45 @@
 </div>
 
 ## Executive Summary
-Experienced AI Developer and entrepreneur from Ghana with a proven track record in building intelligent systems that drive meaningful impact. Currently a machine learning engineer at Agregar and leading SEMA Technologies, where we're revolutionizing predictive surveillance systems. Specialized in developing AI solutions using Python and modern frameworks, with particular expertise in LLMs, computer vision, and predictive analytics. Committed to leveraging cutting-edge technology to solve complex challenges in Africa and beyond.
+Senior AI/ML & Backend Engineer with expertise in building sophisticated intelligent systems and security-focused platforms. Currently leading AI development at Agregar Tech, specializing in identity verification and fraud detection systems. Strong background in deep learning, computer vision, and secure backend architectures. Passionate about leveraging cutting-edge AI technology to solve complex security and verification challenges.
 
-##  Professional Journey
--  **Machine Learning Specialist** at [Agregar](https://agregartech.com/)
-  - Developing AI systems for background verifications
-  
+## Professional Experience
+- **Senior AI/ML & Backend Engineer** at [Agregar Tech](https://agregartech.com/)
+  - Leading development of AI-driven security and identity verification platforms
+  - Architecting robust backend systems for fraud detection and KYC compliance
+  - Designing and implementing state-of-the-art deepfake detection solutions
 
--  **Co-founder & CEO** at [SEMA Technologies](https://sematechnologies.com)
-  - Building AI-powered solutions for proactive crime prevention
+- **Co-founder & Technical Lead** at [SEMA Technologies](https://sematechnologies.com)
+  - Developing advanced AI surveillance systems for proactive security
+  - Leading technical strategy and system architecture
 
-##  Tech Arsenal
+## Technical Expertise
 
 <div align="center">
 
 ### Core Technologies
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### AI & ML Framework Mastery
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Expert-blueviolet?style=for-the-badge)
-![GPT--4](https://img.shields.io/badge/GPT--4-Advanced-brightgreen?style=for-the-badge)
+### AI & ML Expertise
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-Expert-FFD700?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-Advanced-005CED?style=for-the-badge)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Advanced AI Tools
-![Pinecone](https://img.shields.io/badge/Pinecone-Expert-9cf?style=for-the-badge)
-![Autogen](https://img.shields.io/badge/Autogen-Advanced-yellow?style=for-the-badge)
-![Langraph](https://img.shields.io/badge/Langraph-Advanced-orange?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Expert-green?style=for-the-badge)
-![Crewa.ai](https://img.shields.io/badge/Crewa.ai-Advanced-purple?style=for-the-badge)
+### Security & MLOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Expert-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -59,16 +60,16 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔮 SEMA Technologies</h3>
-      <p>Revolutionary AI-powered surveillance platform for proactive crime prevention using cutting-edge machine learning algorithms and real-time analysis.</p>
-      <a href="https://sematechnologies.com">
+      <h3>🛡️ Deepfake Detection System</h3>
+      <p>Enterprise-grade deepfake detection platform using advanced computer vision and neural networks, achieving 99.7% accuracy in production environments.</p>
+      <a href="https://agregartech.com/solutions">
         <img src="https://img.shields.io/badge/Learn_More-00C7B7?style=for-the-badge"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>Ramah Upliftment Foundation</h3>
-      <p>Tech-driven charitable initiative empowering communities through innovative solutions and sustainable development programs.</p>
-      <a href="https://ramahupliftment.org">
+      <h3>🔮 SEMA AI Platform</h3>
+      <p>Cutting-edge surveillance system utilizing distributed AI processing and real-time threat detection, deployed across multiple security installations.</p>
+      <a href="https://sematechnologies.com">
         <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
       </a>
     </td>
@@ -87,18 +88,18 @@ Experienced AI Developer and entrepreneur from Ghana with a proven track record 
 
 </div>
 
-## Let's Connect and Innovate!
+## Professional Interests
 
 <div align="center">
 
-I'm always excited to collaborate on projects that push the boundaries of AI and technology. Whether you're interested in:
+Focused on advancing the intersection of AI and security through:
 
--  AI/ML Projects
--  Social Impact Initiatives
--  Innovative Tech Solutions
-- Mentorship Opportunities
+- Computer Vision & Deep Learning
+- Secure System Architecture
+- MLOps & Production AI Systems
+- Identity Verification & Fraud Prevention
 
-Let's connect and create something amazing together!
+Open to collaborating on innovative projects in AI security and verification systems.
 
 ---
 
@@ -107,7 +108,7 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+  <i>"Security is not a product, but a process." - Bruce Schneier</i>
 </p>
 
 </div>
