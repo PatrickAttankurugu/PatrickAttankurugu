@@ -104,8 +104,6 @@ Open to collaborating on innovative projects in AI security and verification sys
   <img src="https://komarev.com/ghpvc/?username=patrickattankurugu&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <i>"Security is not a product, but a process." - Bruce Schneier</i>
-</p>
+
 
 </div>
