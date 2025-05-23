@@ -59,15 +59,11 @@ Senior AI/ML & Backend Engineer with expertise in building sophisticated intelli
     <td align="center" width="50%">
       <h3>🛡️ Deepfake Detection System</h3>
       <p>Enterprise-grade deepfake detection platform using advanced computer vision and neural networks, achieving 99.7% accuracy in production environments.</p>
-      <a href="https://agregartech.com/solutions">
-        <img src="https://img.shields.io/badge/Learn_More-00C7B7?style=for-the-badge"/>
       </a>
     </td>
     <td align="center" width="50%">
       <h3>🔮 SEMA AI Platform</h3>
       <p>Cutting-edge surveillance system utilizing distributed AI processing and real-time threat detection, deployed across multiple security installations.</p>
-      <a href="https://sematechnologies.com">
-        <img src="https://img.shields.io/badge/Learn_More-FF69B4?style=for-the-badge"/>
       </a>
     </td>
   </tr>
