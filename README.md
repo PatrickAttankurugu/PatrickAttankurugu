@@ -10,8 +10,8 @@
 
 </div>
 
-## Executive Summary
-Senior AI/ML & Backend Engineer with expertise in building sophisticated intelligent systems and security-focused platforms. Currently leading AI development at Agregar Tech, specializing in identity verification and fraud detection systems. Strong background in deep learning, computer vision, and secure backend architectures. Passionate about leveraging cutting-edge AI technology to solve complex security and verification challenges.
+## About
+I lead AI development at Agregar Technologies-a Regulatory Technology company where we build intelligent application for identity verification, background checks, risk mitigation and fraud prevention. I have background in deep learning, computer vision, and AI agents. Passionate about leveraging state-of-the-art AI technology to mitigate risk and prevent fraudulent transactions.
 
 ## Professional Experience
 - **Senior AI/ML & Backend Engineer** at [Agregar Tech](https://agregartech.com/)
