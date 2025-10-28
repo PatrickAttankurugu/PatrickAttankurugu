@@ -15,9 +15,6 @@
 ## Overview
 
 I currently lead AI development at Agregar Technologies
-
-**Specialization:** Financial services and agriculture.
-
 ---
 
 
