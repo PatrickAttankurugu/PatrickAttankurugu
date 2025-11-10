@@ -4,7 +4,6 @@
 
 **Senior AI/ML Engineer | Financial Services AI | KYC/KYB/KYE**
 
-[<img src="https://img.shields.io/badge/Portfolio-patrickaiafrica.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>](http://patrickaiafrica.com)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrick-ai-africa/)
 [<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:patricka.azuma@gmail.com)
 
