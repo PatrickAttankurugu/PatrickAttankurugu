@@ -24,7 +24,7 @@ I currently lead AI development at Agregar Technologies
 ## Technical Stack
 
 **MLOps & Infrastructure**  
-Docker • Kubernetes • MLflow • GitHub Actions • Terraform
+Docker • Kubernetes • MLflow • GitHub Actions 
 
 **Machine Learning**  
 PyTorch • TensorFlow • Transformers • ONNX • Computer Vision
