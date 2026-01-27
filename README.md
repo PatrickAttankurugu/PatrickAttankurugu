@@ -13,7 +13,7 @@
 
 ## Overview
 
-I currently lead AI development at Agregar Technologies
+I lead AI development at Agregar Technologies
 ---
 
 
