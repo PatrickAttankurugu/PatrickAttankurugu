@@ -18,23 +18,6 @@ I lead AI development at Agregar Technologies
 
 
 
-
----
-
-## Technical Stack
-
-**MLOps & Infrastructure**  
-Docker • Kubernetes • MLflow • GitHub Actions 
-
-**Machine Learning**  
-PyTorch • TensorFlow • Transformers • ONNX • Computer Vision
-
-**Backend & Data**  
-Python • FastAPI • PostgreSQL • Redis
-
----
-
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickattankurugu&theme=tokyonight&hide_border=true)
