@@ -13,7 +13,7 @@
 
 ## Overview
 
-I lead AI development at Agregar Technologies
+Senior AI/ML Engineer
 ---
 
 
