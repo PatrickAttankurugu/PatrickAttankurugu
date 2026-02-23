@@ -59,23 +59,6 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 
 ---
 
-## AI Engineering Philosophy
-
-> *Every AI system I build must be not only powerful — but transparent, auditable, and controllable.*
-
-This is not a preference. In financial crime detection, a model that cannot explain its decisions is a liability. I build systems where every flag, score, and decision can be traced, interrogated, and defended.
-
----
-
-## Current Focus
-
-- AML transaction monitoring with graph-based entity resolution
-- Multimodal document verification for African identity documents
-- LLM-powered compliance reasoning and regulatory interpretation
-- Production ML infrastructure for real-time fraud scoring
-
----
-
 ## GitHub Activity
 
 <div align="center">
