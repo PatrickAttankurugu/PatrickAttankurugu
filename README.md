@@ -56,20 +56,6 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
----
-
-## Impact by Numbers
-
-<div align="center">
-
-| Metric | Result |
-|---|---|
-| Identity Verifications Processed | 100,000+ |
-| Document Verification Accuracy | 97.3% |
-| Deepfake Detection Rate | 94.7% |
-| Financial Institutions Served | 40+ clients |
-
-</div>
 
 ---
 
