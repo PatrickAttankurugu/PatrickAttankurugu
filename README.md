@@ -10,7 +10,7 @@
 
 ### Detecting Financial Crime. Building Trustworthy AI.
 
-I engineer AI systems that protect financial institutions from fraud, money laundering, and identity crime. My work sits at the intersection of machine learning, identity verification, and compliance automation — built for scale, designed to be auditable.
+I build AI systems that protect financial institutions from fraud, money laundering, and identity crime.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ai-africa/)
 [![Email](https://img.shields.io/badge/Email-patricka.azuma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
