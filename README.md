@@ -8,10 +8,6 @@
 
 <div align="center">
 
-### Detecting Financial Crime. Building Trustworthy AI.
-
-I build AI systems that protect financial institutions from fraud, money laundering, and identity crime.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ai-africa/)
 [![Email](https://img.shields.io/badge/Email-patricka.azuma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=patrickattankurugu&style=for-the-badge&color=302b63)](https://github.com/patrickattankurugu)
