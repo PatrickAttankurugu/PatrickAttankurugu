@@ -55,16 +55,15 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 
 ---
 
+
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickattankurugu&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickattankurugu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickattankurugu&layout=compact&theme=tokyonight&hide_border=true)
-
+<img src="https://streak-stats.demolab.com/?user=patrickattankurugu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=patrickattankurugu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickattankurugu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
