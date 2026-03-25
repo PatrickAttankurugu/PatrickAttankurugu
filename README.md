@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm an AI/ML engineer based in Ghana, building production AI systems for **identity verification**, **AML compliance**, and **fraud detection** across Africa. My work sits at the intersection of deep learning and financial crime prevention — from training deepfake detection models to orchestrating autonomous compliance agents. Over 100K verifications processed across 54 countries.
+I'm an AI/ML engineer based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across Africa.
 
 ---
 
