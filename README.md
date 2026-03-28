@@ -113,7 +113,6 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logoColor=white)
 ![InsightFace](https://img.shields.io/badge/InsightFace-EE4C2C?style=for-the-badge&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-008000?style=for-the-badge&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white)
@@ -126,7 +125,6 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 ![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-1a1a2e?style=flat-square)
 ![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-1a1a2e?style=flat-square)
 ![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-1a1a2e?style=flat-square)
-![Address Proof Validation](https://img.shields.io/badge/Address_Proof_Validation-1a1a2e?style=flat-square)
 
 **LLMs, RAG & NLP for Compliance**
 
@@ -140,27 +138,9 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 ![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-302b63?style=flat-square)
 ![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-302b63?style=flat-square)
 ![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-302b63?style=flat-square)
-![SAR Generation](https://img.shields.io/badge/SAR_Generation-LLM_Drafting-302b63?style=flat-square)
 ![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-302b63?style=flat-square)
 ![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-302b63?style=flat-square)
 
-**AML Transaction Monitoring & Fraud**
-
-![Rule Engines](https://img.shields.io/badge/Rule_Engines-Threshold_&_Pattern-8B0000?style=flat-square)
-![ML Anomaly Detection](https://img.shields.io/badge/ML-Anomaly_Detection-8B0000?style=flat-square)
-![Graph Analytics](https://img.shields.io/badge/Graph_Analytics-Network_Patterns-8B0000?style=flat-square)
-![Behavioral Analytics](https://img.shields.io/badge/Behavioral_Analytics-User_Profiling-8B0000?style=flat-square)
-![Velocity Checks](https://img.shields.io/badge/Velocity_Checks-Rate_Analysis-8B0000?style=flat-square)
-![Structuring Detection](https://img.shields.io/badge/Structuring_Detection-Smurfing-8B0000?style=flat-square)
-![Layering Detection](https://img.shields.io/badge/Layering_Detection-Fund_Tracing-8B0000?style=flat-square)
-![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-ML_Models-8B0000?style=flat-square)
-
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-4C8CBF?style=for-the-badge&logoColor=white)
-![Gephi](https://img.shields.io/badge/Gephi-557C94?style=for-the-badge&logoColor=white)
-![igraph](https://img.shields.io/badge/igraph-276DC3?style=for-the-badge&logoColor=white)
-
-**Algorithms**: Levenshtein · Jaro-Winkler · Soundex · Community Detection · PageRank · Shortest Path · UBO Chain Resolution
 
 **Data Streaming & Pipelines**
 
@@ -183,49 +163,16 @@ Compliance Automation         →  Screening Pipelines · Regulatory Reporting �
 **DevOps, Cloud & Security**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square&logoColor=white)
-![AES-256 Encryption](https://img.shields.io/badge/AES--256-Encryption-1a1a2e?style=flat-square)
-![TLS / mTLS](https://img.shields.io/badge/TLS_/_mTLS-Transport_Security-1a1a2e?style=flat-square)
-![PII Masking](https://img.shields.io/badge/PII_Masking-Data_Protection-1a1a2e?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-Access_Control-1a1a2e?style=flat-square)
-![Audit Logging](https://img.shields.io/badge/Audit_Logging-SOC2_Compliance-1a1a2e?style=flat-square)
-![GDPR](https://img.shields.io/badge/GDPR-Data_Privacy-1a1a2e?style=flat-square)
 
-**Regulatory Frameworks & Standards**
 
-![FATF](https://img.shields.io/badge/FATF-40_Recommendations-B8860B?style=for-the-badge)
-![6AMLD](https://img.shields.io/badge/6AMLD-EU_Directive-003399?style=for-the-badge)
-![OFAC](https://img.shields.io/badge/OFAC-SDN_Sanctions-8B0000?style=for-the-badge)
-![UN Sanctions](https://img.shields.io/badge/UN-Sanctions_Lists-5B92E5?style=for-the-badge)
-![Basel AML Index](https://img.shields.io/badge/Basel-AML_Index-1a1a2e?style=for-the-badge)
-![Wolfsberg Group](https://img.shields.io/badge/Wolfsberg-Group_Principles-1a1a2e?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security-2E8B57?style=for-the-badge)
-![PCI DSS](https://img.shields.io/badge/PCI_DSS-Payment_Security-003087?style=for-the-badge)
-![SOC 2](https://img.shields.io/badge/SOC_2-Trust_Principles-4B0082?style=for-the-badge)
-
----
-
-### GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=patrickattankurugu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=a0a8d0&icon_color=10b981&title_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickattankurugu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=a0a8d0&title_color=ffffff" alt="Top Languages" height="165"/>
-</div>
-
----
 
 <div align="center">
 
-**Currently open to collaborations in AI for financial crime, identity verification, and compliance automation.**
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/patrick-ai-africa/) or [email](mailto:patricka.azuma@gmail.com).
 
