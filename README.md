@@ -1,182 +1,172 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Patrick%20Attankurugu&fontS
-  ize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Ghana&descAlignY=58&descColor=5eead4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Patrick%20Attankurugu&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Ghana&descAlignY=58&descColor=5eead4"/>
 
-  <a href="https://patrickaiafrica.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lin
-  es=Agentic+%26+multi-agent+compliance+systems;AML%2C+KYC+%26+fraud+detection+at+scale;Hybrid+RAG+%26+LLM+platforms;From+prototype+to+production"/>
-  </a>
+<a href="https://patrickaiafrica.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lines=Agentic+%26+multi-agent+compliance+systems;AML%2C+KYC+%26+fraud+detection+at+scale;Hybrid+RAG+%26+LLM+platforms;From+prototype+to+production"/>
+</a>
 
-  </div>
+</div>
 
-  <div align="center">
+<div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-patrickaiafrica.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickaiafrica.
-  com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-
-  ai-africa/)
-  [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/patrickaiafrica)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-patrickaiafrica.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickaiafrica.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ai-africa/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/patrickaiafrica)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ### About Me
+### About Me
 
-  I'm a **Senior AI/ML Engineer** based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across
-  Africa.
+I'm a **Senior AI/ML Engineer** based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across Africa.
 
-  ---
+---
 
-  ### Featured Projects
+### Featured Projects
 
-  <table>
-  <tr>
-  <td width="33%" valign="top">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-  **[AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP)** &nbsp;
-  [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://pep.patrickaiafrica.com)
+**[AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP)** &nbsp; [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://pep.patrickaiafrica.com)
 
-  Africa's Politically Exposed Persons database. 27K+ verified PEP profiles across all 54 countries with NLP entity resolution, hybrid fuzzy matching, and
-  graph-powered relationship mapping.
+Africa's Politically Exposed Persons database. 27K+ verified PEP profiles across all 54 countries with NLP entity resolution, hybrid fuzzy matching, and graph-powered relationship mapping.
 
-  `FastAPI` `Neo4j` `PostgreSQL` `Next.js` `spaCy`
+`FastAPI` `Neo4j` `PostgreSQL` `Next.js` `spaCy`
 
-  </td>
-  <td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
-  **[SENTINEL AI](https://sentinel.patrickaiafrica.com)** &nbsp;
-  [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://sentinel.patrickaiafrica.com)
+**[SENTINEL AI](https://sentinel.patrickaiafrica.com)** &nbsp; [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://sentinel.patrickaiafrica.com)
 
-  Six specialized AI agents orchestrated by LangGraph that perform end-to-end KYC/AML investigations autonomously — from alert triage to SAR drafting.
+Six specialized AI agents orchestrated by LangGraph that perform end-to-end KYC/AML investigations autonomously — from alert triage to SAR drafting.
 
-  `Python` `LangGraph` `Gemini` `FastAPI` `Next.js`
+`Python` `LangGraph` `Gemini` `FastAPI` `Next.js`
 
-  </td>
-  <td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
-  **[LexAura](https://lexaura-pied.vercel.app/)** &nbsp;
-  [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://lexaura-pied.vercel.app/)
+**[LexAura](https://lexaura-pied.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://lexaura-pied.vercel.app/)
 
-  AI-powered regulatory intelligence for African financial compliance — instant, citation-backed answers on KYC, AML, and STR regulations across Nigeria,
-  Ghana, Kenya, South Africa, and FATF standards.
+AI-powered regulatory intelligence for African financial compliance — instant, citation-backed answers on KYC, AML, and STR regulations across Nigeria, Ghana, Kenya, South Africa, and FATF standards.
 
-  `Python` `LLMs` `RAG` `Next.js`
+`Python` `LLMs` `RAG` `Next.js`
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
-  ---
+---
 
-  ### What I Build
+### What I Build
 
-  ```
-  Financial Crime Intelligence  →  KYC / KYB / KYE / AML Transaction Monitoring
-  Identity Verification         →  Document Authentication · Biometric Verification · Deepfake Detection
-  Fraud Detection               →  Behavioural Analytics · Anomaly Detection · Risk Scoring
-  Compliance Automation         →  Screening Pipelines · Regulatory Reporting · Audit Trails
-  ```
+```
+Financial Crime Intelligence  →  KYC / KYB / KYE / AML Transaction Monitoring
+Identity Verification         →  Document Authentication · Biometric Verification · Deepfake Detection
+Fraud Detection               →  Behavioural Analytics · Anomaly Detection · Risk Scoring
+Compliance Automation         →  Screening Pipelines · Regulatory Reporting · Audit Trails
+```
 
-  ---
+---
 
-  ### Tech Stack for KYC / KYB / KYE / AML
+### Tech Stack for KYC / KYB / KYE / AML
 
-  **Languages & Core**
+**Languages & Core**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-  **AI / ML & Deep Learning**
+**AI / ML & Deep Learning**
 
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-  ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
-  ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-  ![CNN](https://img.shields.io/badge/CNN-Convolutional_Networks-115e59?style=flat-square)
-  ![RNN / LSTM](https://img.shields.io/badge/RNN-LSTM_/_GRU-115e59?style=flat-square)
-  ![GNN](https://img.shields.io/badge/GNN-Graph_Neural_Networks-115e59?style=flat-square)
-  ![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-115e59?style=flat-square)
-  ![Autoencoders](https://img.shields.io/badge/Autoencoders-Anomaly_Detection-115e59?style=flat-square)
-  ![GANs](https://img.shields.io/badge/GANs-Deepfake_Generation_%26_Detection-115e59?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-Convolutional_Networks-115e59?style=flat-square)
+![RNN / LSTM](https://img.shields.io/badge/RNN-LSTM_/_GRU-115e59?style=flat-square)
+![GNN](https://img.shields.io/badge/GNN-Graph_Neural_Networks-115e59?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-115e59?style=flat-square)
+![Autoencoders](https://img.shields.io/badge/Autoencoders-Anomaly_Detection-115e59?style=flat-square)
+![GANs](https://img.shields.io/badge/GANs-Deepfake_Generation_%26_Detection-115e59?style=flat-square)
 
-  **Identity Verification & Biometrics**
+**Identity Verification & Biometrics**
 
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logoColor=white)
-  ![InsightFace](https://img.shields.io/badge/InsightFace-EE4C2C?style=for-the-badge&logoColor=white)
-  ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-  ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white)
-  ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logoColor=white)
+![InsightFace](https://img.shields.io/badge/InsightFace-EE4C2C?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=for-the-badge&logoColor=white)
 
-  ![Face Comparison](https://img.shields.io/badge/Face_Comparison-134e4a?style=flat-square)
-  ![Liveness Detection](https://img.shields.io/badge/Liveness_Detection-134e4a?style=flat-square)
-  ![Deepfake Detection](https://img.shields.io/badge/Deepfake_Detection-134e4a?style=flat-square)
-  ![ID Card OCR](https://img.shields.io/badge/ID_Card_OCR-134e4a?style=flat-square)
-  ![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-134e4a?style=flat-square)
-  ![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-134e4a?style=flat-square)
-  ![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-134e4a?style=flat-square)
+![Face Comparison](https://img.shields.io/badge/Face_Comparison-134e4a?style=flat-square)
+![Liveness Detection](https://img.shields.io/badge/Liveness_Detection-134e4a?style=flat-square)
+![Deepfake Detection](https://img.shields.io/badge/Deepfake_Detection-134e4a?style=flat-square)
+![ID Card OCR](https://img.shields.io/badge/ID_Card_OCR-134e4a?style=flat-square)
+![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-134e4a?style=flat-square)
+![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-134e4a?style=flat-square)
+![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-134e4a?style=flat-square)
 
-  **LLMs, RAG & NLP for Compliance**
+**LLMs, RAG & NLP for Compliance**
 
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-  ![Anthropic Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=for-the-badge&logoColor=white)
 
-  ![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-0f766e?style=flat-square)
-  ![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-0f766e?style=flat-square)
-  ![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-0f766e?style=flat-square)
-  ![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-0f766e?style=flat-square)
-  ![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-0f766e?style=flat-square)
+![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-0f766e?style=flat-square)
+![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-0f766e?style=flat-square)
+![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-0f766e?style=flat-square)
+![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-0f766e?style=flat-square)
+![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-0f766e?style=flat-square)
 
 
-  **Data Streaming & Pipelines**
+**Data Streaming & Pipelines**
 
-  ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-  **Databases**
+**Databases**
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-  ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 
-  **Web Frameworks**
+**Web Frameworks**
 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-  **DevOps, Cloud & Security**
+**DevOps, Cloud & Security**
 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ---
+---
 
-  <div align="center">
+<div align="center">
 
-  Reach out via [LinkedIn](https://www.linkedin.com/in/patrick-ai-africa/) or [email](mailto:patricka.azuma@gmail.com).
+Reach out via [LinkedIn](https://www.linkedin.com/in/patrick-ai-africa/) or [email](mailto:patricka.azuma@gmail.com).
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=100&section=footer"/>
 
-  </div>
+</div>
