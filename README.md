@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Patrick%20Attankurugu&fontS
   ize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Ghana&descAlignY=58&descColor=5eead4"/>
@@ -9,6 +9,8 @@
   </a>
 
   </div>
+
+  <div align="center">
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-patrickaiafrica.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickaiafrica.
   com)
@@ -23,7 +25,8 @@
 
   ### About Me
 
-  I'm an AI/ML engineer based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across Africa.
+  I'm a **Senior AI/ML Engineer** based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across
+  Africa.
 
   ---
 
@@ -31,7 +34,7 @@
 
   <table>
   <tr>
-  <td width="50%">
+  <td width="33%" valign="top">
 
   **[AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP)** &nbsp;
   [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://pep.patrickaiafrica.com)
@@ -42,7 +45,7 @@
   `FastAPI` `Neo4j` `PostgreSQL` `Next.js` `spaCy`
 
   </td>
-  <td width="50%">
+  <td width="33%" valign="top">
 
   **[SENTINEL AI](https://sentinel.patrickaiafrica.com)** &nbsp;
   [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://sentinel.patrickaiafrica.com)
@@ -52,9 +55,7 @@
   `Python` `LangGraph` `Gemini` `FastAPI` `Next.js`
 
   </td>
-  </tr>
-  <tr>
-  <td width="50%">
+  <td width="33%" valign="top">
 
   **[LexAura](https://lexaura-pied.vercel.app/)** &nbsp;
   [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](https://lexaura-pied.vercel.app/)
@@ -103,12 +104,12 @@
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-  ![CNN](https://img.shields.io/badge/CNN-Convolutional_Networks-4B0082?style=flat-square)
-  ![RNN / LSTM](https://img.shields.io/badge/RNN-LSTM_/_GRU-4B0082?style=flat-square)
-  ![GNN](https://img.shields.io/badge/GNN-Graph_Neural_Networks-4B0082?style=flat-square)
-  ![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-4B0082?style=flat-square)
-  ![Autoencoders](https://img.shields.io/badge/Autoencoders-Anomaly_Detection-4B0082?style=flat-square)
-  ![GANs](https://img.shields.io/badge/GANs-Deepfake_Generation_&_Detection-4B0082?style=flat-square)
+  ![CNN](https://img.shields.io/badge/CNN-Convolutional_Networks-115e59?style=flat-square)
+  ![RNN / LSTM](https://img.shields.io/badge/RNN-LSTM_/_GRU-115e59?style=flat-square)
+  ![GNN](https://img.shields.io/badge/GNN-Graph_Neural_Networks-115e59?style=flat-square)
+  ![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-115e59?style=flat-square)
+  ![Autoencoders](https://img.shields.io/badge/Autoencoders-Anomaly_Detection-115e59?style=flat-square)
+  ![GANs](https://img.shields.io/badge/GANs-Deepfake_Generation_%26_Detection-115e59?style=flat-square)
 
   **Identity Verification & Biometrics**
 
@@ -120,13 +121,13 @@
   ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white)
   ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=for-the-badge&logoColor=white)
 
-  ![Face Comparison](https://img.shields.io/badge/Face_Comparison-1a1a2e?style=flat-square)
-  ![Liveness Detection](https://img.shields.io/badge/Liveness_Detection-1a1a2e?style=flat-square)
-  ![Deepfake Detection](https://img.shields.io/badge/Deepfake_Detection-1a1a2e?style=flat-square)
-  ![ID Card OCR](https://img.shields.io/badge/ID_Card_OCR-1a1a2e?style=flat-square)
-  ![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-1a1a2e?style=flat-square)
-  ![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-1a1a2e?style=flat-square)
-  ![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-1a1a2e?style=flat-square)
+  ![Face Comparison](https://img.shields.io/badge/Face_Comparison-134e4a?style=flat-square)
+  ![Liveness Detection](https://img.shields.io/badge/Liveness_Detection-134e4a?style=flat-square)
+  ![Deepfake Detection](https://img.shields.io/badge/Deepfake_Detection-134e4a?style=flat-square)
+  ![ID Card OCR](https://img.shields.io/badge/ID_Card_OCR-134e4a?style=flat-square)
+  ![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-134e4a?style=flat-square)
+  ![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-134e4a?style=flat-square)
+  ![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-134e4a?style=flat-square)
 
   **LLMs, RAG & NLP for Compliance**
 
@@ -137,11 +138,11 @@
   ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
   ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=for-the-badge&logoColor=white)
 
-  ![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-302b63?style=flat-square)
-  ![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-302b63?style=flat-square)
-  ![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-302b63?style=flat-square)
-  ![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-302b63?style=flat-square)
-  ![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-302b63?style=flat-square)
+  ![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-0f766e?style=flat-square)
+  ![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-0f766e?style=flat-square)
+  ![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-0f766e?style=flat-square)
+  ![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-0f766e?style=flat-square)
+  ![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-0f766e?style=flat-square)
 
 
   **Data Streaming & Pipelines**
@@ -170,18 +171,12 @@
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+  ---
 
   <div align="center">
-
 
   Reach out via [LinkedIn](https://www.linkedin.com/in/patrick-ai-africa/) or [email](mailto:patricka.azuma@gmail.com).
 
-  </div>
-
-  <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=100&section=footer"/>
 
   </div>
