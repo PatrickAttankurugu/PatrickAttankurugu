@@ -1,11 +1,14 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Patrick%20Attankurugu&fontS
-  ize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer&descAlignY=58&descColor=a0a8d0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Patrick%20Attankurugu&fontS
+  ize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Ghana&descAlignY=58&descColor=5eead4"/>
+
+  <a href="https://patrickaiafrica.com">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lin
+  es=Agentic+%26+multi-agent+compliance+systems;AML%2C+KYC+%26+fraud+detection+at+scale;Hybrid+RAG+%26+LLM+platforms;From+prototype+to+production"/>
+  </a>
 
   </div>
-
-  <div align="center">
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-patrickaiafrica.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickaiafrica.
   com)
